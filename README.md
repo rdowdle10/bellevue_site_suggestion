@@ -10,6 +10,8 @@ A few email exchanges later, our requirements were to be clear and concise, the 
 
 # viewing the actual, completed project
 Viewing the actual site can be done at this link: http://students.washington.edu/rdowdle/tinfo230/project/em-index.html
+Final project portfolio, along with SCRUM/AGILE materials, can be found here:
+  https://drive.google.com/file/d/1bO6zCgR0TpP-NVL6bAByZ_euWXeDViXG/view?usp=sharing
 
 # bugs
 The following bugs/lack of implementation are as follows:
